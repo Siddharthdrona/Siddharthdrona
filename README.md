@@ -52,13 +52,10 @@ I'm an aspiring **Full-Stack Developer** passionate about building modern, scala
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge\&logo=eslint\&logoColor=white)
 
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Siddharthdrona\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Siddharthdrona\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharthdrona\&theme=tokyonight\&hide_border=true\&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Siddharthdrona&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Siddharthdrona&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Siddharthdrona&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
