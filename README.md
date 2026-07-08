@@ -12,7 +12,6 @@ I'm an aspiring **Full-Stack Developer** passionate about building modern, scala
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/siddharth-dronachary)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:siddudrona@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/SiddharthDronacharya/)
 
 # 💻 Tech Stack
 
