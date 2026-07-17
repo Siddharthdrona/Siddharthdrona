@@ -58,4 +58,4 @@ I'm an aspiring **Full-Stack Developer** passionate about building modern, scala
 
 ---
 
-> *"Building scalable software, one project at a time."* 🚀
+> *"Building scalable software, one project at a time."* 🚀 🚀
